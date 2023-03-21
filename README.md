@@ -1,4 +1,8 @@
+# Stock Sentiment App
+
 # Getting Started with Create React App
+
+Financial stock app based on insider and public sentiment analysis
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
